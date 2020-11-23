@@ -7,7 +7,7 @@ echo Done Unzip
 #sleep 5
 
 
-B
+
 mv opendj amconfig
 
 echo moved amconfig 
